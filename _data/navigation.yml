@@ -3,5 +3,5 @@ main:
     url: /mittauskeskiarvo/
   - title: "Databyron tarkkuus"
     url: /tarkkuus/
-  - title: "About"
+  - title: "Meistä"
     url: /about/
