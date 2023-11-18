@@ -1,5 +1,7 @@
 main:
   - title: "Puoluekannatus"
     url: /mittauskeskiarvo/
+  - title: "Databyron tarkkuus"
+    url: /tarkkuus/
   - title: "About"
     url: /about/
