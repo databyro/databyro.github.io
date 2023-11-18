@@ -70,10 +70,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ShetlandElects"
+      url: "https://twitter.com/DatabyroFI"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ArchipelagoElects"
+      url: "https://github.com/databyro"
 
 defaults:
   # _posts
