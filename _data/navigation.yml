@@ -1,3 +1,5 @@
 main:
   - title: "Puoluekannatus"
     url: /mittauskeskiarvo/
+  - title: "About"
+    url: /about/
