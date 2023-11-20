@@ -2,7 +2,7 @@
 permalink: /mediassa/
 title: "Databyro mediassa"
 ---
-
+<br>
 31.3.2023<br>
 <a href="https://www.uusisuomi.fi/uutiset/tyma-laskeutui-suomen-vaalipaivan-ylle-luvassa-voi-olla-yllatys-hallituskuvion-ratkaisija-lymyaa-kolmen-suurimman-takana/bee330cf-431a-450c-ad31-260a68131e75" target="_blank">Uusi Suomi</a><br>
 <br>
