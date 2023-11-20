@@ -14,8 +14,8 @@ layout: splash
   
 <tr style="text-align:center">
   <td style="text-align:left">Toteuttaja</td>
-  <td style="text-align:left">Keruuajan alku</td>
-  <td style="text-align:left">Keruuajan loppu</td>
+  <td style="text-align:left">Keruuajan<br>alku</td>
+  <td style="text-align:left">Keruuajan<br>loppu</td>
   <td></td>
   <td>Kok.</td>
   <td>PS</td>
