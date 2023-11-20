@@ -1,7 +1,9 @@
 main:
   - title: "Puoluekannatus"
     url: /mittauskeskiarvo/
-  - title: "Databyron tarkkuus"
+  - title: "Tarkkuus"
     url: /tarkkuus/
+  - title: "Mediassa"
+    url: /mediassa/
   - title: "Meistä"
     url: /about/
