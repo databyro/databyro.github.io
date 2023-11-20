@@ -1,1 +1,1 @@
-# Databyro – open data & website
+# Databyro – website & open data
