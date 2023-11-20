@@ -16,9 +16,9 @@ layout: splash
   <td style="text-align:left">Toteuttaja</td>
   <td style="text-align:left">Keruuaika</td>
   <td></td>
-  <td>SDP</td>
-  <td>PS</td>
   <td>Kok.</td>
+  <td>PS</td>
+  <td>SDP</td>
   <td>Kesk.</td>
   <td>Vihr.</td>
   <td>Vas.</td>
