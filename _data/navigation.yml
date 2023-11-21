@@ -3,6 +3,8 @@ main:
     url: /mittauskeskiarvo/
   - title: "Tarkkuus"
     url: /tarkkuus/
+  - title: "Arkisto"
+    url: /arkisto/
   - title: "Mediassa"
     url: /mediassa/
   - title: "Meistä"
