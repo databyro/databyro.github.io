@@ -1,13 +1,16 @@
 ---
 permalink: /about/
 title: "Meistä"
+layout: "Splash"
 ---
 <h4>Databyro</h4>
 <p>
 Idea sivuston takana sai alkunsa heinäkuun 2018 lopulla, kun yksikään suomenkielinen taho ei tuntunut tarjoavan helposti lähestyttävää keskiarvoa ja tilastointia mielipidemittauksista. Alkuun moinen seuranta luotiin lähinnä Excel-taulukossa ylläpidettäväksi omaan käyttöön, mutta miksipä ei sitä tarjoaisi myös julkisemmin halukkaiden käytettäväksi ja perattavaksi.
-
+</p>
+<p>
 Syksyn kuluessa idea jalostui ja kehittyi, mukaan päätettiin lisätä mittausten pohjalta luotua eduskuntavaaliennustetta, sekä yleistä Suomen politiikkaa koskevaa tilastotietoa. Lopulta vuodenvaihteen jälkeen paketti alkoi näyttää viimein olevan tarpeellisissa määrin koossa ensimmäisen versiota varten.
-
+</p>
+<p>
 Databyro pyörii täysin vapaaehtoisvoimin, rakkaudesta lajiin, eikä suunnitelmissa ole myydä mainostilaa sivustolle. Tämä takaa sivuston häiriöttömän käytön ja politiikan sisältöön keskittymisen. Osin vapaaehtoisvoimaisuudesta johtuen uusien kokonaisuuksien lisääminen sivustolle tapahtuu asteittain siihen aikaa jäädessä.
 </p>
 <hr>
