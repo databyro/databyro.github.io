@@ -44,8 +44,8 @@ layout: splash
     </tr>
     <tr>
         <td>Taloustutkimus</td>
-        <td>1.4.2019</td>
-        <td>9.4.2019</td>
+        <td>01.04.2019</td>
+        <td>09.04.2019</td>
         <td>14.5%</td>
         <td>15.9%</td>
         <td>16.3%</td>
@@ -56,14 +56,14 @@ layout: splash
         <td>4.3%</td>
         <td>0.8%</td>
         <td>3.1%</td>
-        <td> 1,253 </td>
+        <td>1,253</td>
         <td>2.3%</td>
         <td></td>
     </tr>
     <tr>
         <td>Kantar TNS</td>
-        <td>3.4.2019</td>
-        <td>7.4.2019</td>
+        <td>03.04.2019</td>
+        <td>07.04.2019</td>
         <td>14.4%</td>
         <td>17.5%</td>
         <td>15.0%</td>
@@ -74,14 +74,14 @@ layout: splash
         <td>4.1%</td>
         <td>1.1%</td>
         <td>2.4%</td>
-        <td> 2,000 </td>
+        <td>2,000</td>
         <td>2.3%</td>
         <td></td>
     </tr>
     <tr>
         <td>Tietoykkönen</td>
-        <td>25.3.2019</td>
-        <td>3.4.2019</td>
+        <td>25.03.2019</td>
+        <td>03.04.2019</td>
         <td>14.7%</td>
         <td>17.0%</td>
         <td>13.4%</td>
@@ -92,14 +92,14 @@ layout: splash
         <td>4.1%</td>
         <td>2.0%</td>
         <td>2.9%</td>
-        <td> 1,202 </td>
+        <td>1,202</td>
         <td>2.3%</td>
         <td></td>
     </tr>
     <tr>
         <td>Taloustutkimus</td>
-        <td>6.3.2019</td>
-        <td>26.3.2019</td>
+        <td>06.03.2019</td>
+        <td>26.03.2019</td>
         <td>14.4%</td>
         <td>15.8%</td>
         <td>15.1%</td>
@@ -110,14 +110,14 @@ layout: splash
         <td>3.5%</td>
         <td>0.9%</td>
         <td>3.1%</td>
-        <td> 1,222 </td>
+        <td>1,222</td>
         <td>2.3%</td>
         <td></td>
     </tr>
     <tr>
         <td>Kantar TNS</td>
-        <td>18.2.2019</td>
-        <td>15.3.2019</td>
+        <td>18.02.2019</td>
+        <td>15.03.2019</td>
         <td>14.3%</td>
         <td>18.1%</td>
         <td>11.1%</td>
@@ -128,14 +128,14 @@ layout: splash
         <td>4.2%</td>
         <td>1.2%</td>
         <td>2.8%</td>
-        <td> 2,490 </td>
+        <td>2,490</td>
         <td>2.0%</td>
         <td></td>
     </tr>
     <tr>
         <td>Taloustutkimus</td>
-        <td>6.2.2019</td>
-        <td>5.3.2019</td>
+        <td>06.02.2019</td>
+        <td>05.03.2019</td>
         <td>14.1%</td>
         <td>16.2%</td>
         <td>13.3%</td>
@@ -146,14 +146,14 @@ layout: splash
         <td>3.5%</td>
         <td>1.8%</td>
         <td>2.5%</td>
-        <td> 1,777 </td>
+        <td>1,777</td>
         <td>2.0%</td>
         <td></td>
     </tr>
     <tr>
         <td>Tietoykkönen</td>
-        <td>18.2.2019</td>
-        <td>3.3.2019</td>
+        <td>18.02.2019</td>
+        <td>03.03.2019</td>
         <td>14.1%</td>
         <td>18.1%</td>
         <td>11.2%</td>
@@ -164,14 +164,14 @@ layout: splash
         <td>4.1%</td>
         <td>2.3%</td>
         <td>2.6%</td>
-        <td> 1,198 </td>
+        <td>1,198</td>
         <td>2.3%</td>
         <td></td>
     </tr>
     <tr>
         <td>Kantar TNS</td>
-        <td>14.1.2019</td>
-        <td>14.2.2019</td>
+        <td>14.01.2019</td>
+        <td>14.02.2019</td>
         <td>14.7%</td>
         <td>18.6%</td>
         <td>11.4%</td>
@@ -182,14 +182,14 @@ layout: splash
         <td>4.0%</td>
         <td>1.0%</td>
         <td>2.9%</td>
-        <td> 1,693 </td>
+        <td>1,693</td>
         <td>2.0%</td>
         <td></td>
     </tr>
     <tr>
         <td>Taloustutkimus</td>
-        <td>14.1.2019</td>
-        <td>5.2.2019</td>
+        <td>14.01.2019</td>
+        <td>05.02.2019</td>
         <td>15.6%</td>
         <td>17.3%</td>
         <td>12.0%</td>
@@ -200,7 +200,7 @@ layout: splash
         <td>3.6%</td>
         <td>1.4%</td>
         <td>2.7%</td>
-        <td> 1,794 </td>
+        <td>1,794</td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -218,14 +218,14 @@ layout: splash
         <td>4.3%</td>
         <td>2.1%</td>
         <td>2.5%</td>
-        <td> 1,145 </td>
+        <td>1,145</td>
         <td>2.4%</td>
         <td></td>
     </tr>
     <tr>
         <td>Kantar TNS</td>
         <td>13.12.2018</td>
-        <td>11.1.2019</td>
+        <td>11.01.2019</td>
         <td>15.6%</td>
         <td>19.5%</td>
         <td>9.7%</td>
@@ -236,14 +236,14 @@ layout: splash
         <td>4.0%</td>
         <td>1.1%</td>
         <td>2.6%</td>
-        <td> 2,282 </td>
+        <td>2,282</td>
         <td>2.0%</td>
         <td></td>
     </tr>
     <tr>
         <td>Taloustutkimus</td>
         <td>10.12.2018</td>
-        <td>8.1.2019</td>
+        <td>08.01.2019</td>
         <td>16.1%</td>
         <td>19.6%</td>
         <td>10.2%</td>
@@ -254,7 +254,7 @@ layout: splash
         <td>4.2%</td>
         <td>1.0%</td>
         <td>2.1%</td>
-        <td> 1,534 </td>
+        <td>1,534</td>
         <td>2.1%</td>
         <td></td>
     </tr>
