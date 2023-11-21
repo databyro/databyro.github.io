@@ -39,7 +39,7 @@ layout: splash
         <td>3.9%</td>
         <td>1.0%</td>
         <td>4.4%</td>
-        <td>–</td>
+        <td> – </td>
         <td>–</td>
         <td>–</td>
     </tr>
@@ -57,7 +57,7 @@ layout: splash
         <td>4.3%</td>
         <td>0.8%</td>
         <td>3.1%</td>
-        <td>125300.0%</td>
+        <td> 1,253 </td>
         <td>2.3%</td>
         <td></td>
     </tr>
@@ -75,7 +75,7 @@ layout: splash
         <td>4.1%</td>
         <td>1.1%</td>
         <td>2.4%</td>
-        <td>200000.0%</td>
+        <td> 2,000 </td>
         <td>2.3%</td>
         <td></td>
     </tr>
@@ -93,7 +93,7 @@ layout: splash
         <td>4.1%</td>
         <td>2.0%</td>
         <td>2.9%</td>
-        <td>120200.0%</td>
+        <td> 1,202 </td>
         <td>2.3%</td>
         <td></td>
     </tr>
@@ -111,7 +111,7 @@ layout: splash
         <td>3.5%</td>
         <td>0.9%</td>
         <td>3.1%</td>
-        <td>122200.0%</td>
+        <td> 1,222 </td>
         <td>2.3%</td>
         <td></td>
     </tr>
@@ -129,7 +129,7 @@ layout: splash
         <td>4.2%</td>
         <td>1.2%</td>
         <td>2.8%</td>
-        <td>249000.0%</td>
+        <td> 2,490 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -147,7 +147,7 @@ layout: splash
         <td>3.5%</td>
         <td>1.8%</td>
         <td>2.5%</td>
-        <td>177700.0%</td>
+        <td> 1,777 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -165,7 +165,7 @@ layout: splash
         <td>4.1%</td>
         <td>2.3%</td>
         <td>2.6%</td>
-        <td>119800.0%</td>
+        <td> 1,198 </td>
         <td>2.3%</td>
         <td></td>
     </tr>
@@ -183,7 +183,7 @@ layout: splash
         <td>4.0%</td>
         <td>1.0%</td>
         <td>2.9%</td>
-        <td>169300.0%</td>
+        <td> 1,693 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -201,7 +201,7 @@ layout: splash
         <td>3.6%</td>
         <td>1.4%</td>
         <td>2.7%</td>
-        <td>179400.0%</td>
+        <td> 1,794 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -219,7 +219,7 @@ layout: splash
         <td>4.3%</td>
         <td>2.1%</td>
         <td>2.5%</td>
-        <td>114500.0%</td>
+        <td> 1,145 </td>
         <td>2.4%</td>
         <td></td>
     </tr>
@@ -237,7 +237,7 @@ layout: splash
         <td>4.0%</td>
         <td>1.1%</td>
         <td>2.6%</td>
-        <td>228200.0%</td>
+        <td> 2,282 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -255,7 +255,7 @@ layout: splash
         <td>4.2%</td>
         <td>1.0%</td>
         <td>2.1%</td>
-        <td>153400.0%</td>
+        <td> 1,534 </td>
         <td>2.1%</td>
         <td></td>
     </tr>
@@ -273,7 +273,7 @@ layout: splash
         <td>3.9%</td>
         <td>1.8%</td>
         <td>2.7%</td>
-        <td>115000.0%</td>
+        <td> 1,150 </td>
         <td>2.3%</td>
         <td></td>
     </tr>
@@ -291,7 +291,7 @@ layout: splash
         <td>4.1%</td>
         <td>1.2%</td>
         <td>2.3%</td>
-        <td>228000.0%</td>
+        <td> 2,280 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -309,7 +309,7 @@ layout: splash
         <td>4.1%</td>
         <td>1.5%</td>
         <td>2.3%</td>
-        <td>181000.0%</td>
+        <td> 1,810 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -327,7 +327,7 @@ layout: splash
         <td>3.7%</td>
         <td>2.2%</td>
         <td>2.0%</td>
-        <td>116400.0%</td>
+        <td> 1,164 </td>
         <td>2.4%</td>
         <td></td>
     </tr>
@@ -345,7 +345,7 @@ layout: splash
         <td>4.0%</td>
         <td>1.2%</td>
         <td>2.0%</td>
-        <td>231400.0%</td>
+        <td> 2,314 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -363,7 +363,7 @@ layout: splash
         <td>3.5%</td>
         <td>1.1%</td>
         <td>1.4%</td>
-        <td>202400.0%</td>
+        <td> 2,024 </td>
         <td>1.8%</td>
         <td></td>
     </tr>
@@ -381,7 +381,7 @@ layout: splash
         <td>3.8%</td>
         <td>2.3%</td>
         <td>2.5%</td>
-        <td>110700.0%</td>
+        <td> 1,107 </td>
         <td>2.4%</td>
         <td></td>
     </tr>
@@ -399,7 +399,7 @@ layout: splash
         <td>3.8%</td>
         <td>1.4%</td>
         <td>2.2%</td>
-        <td>238600.0%</td>
+        <td> 2,386 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -417,7 +417,7 @@ layout: splash
         <td>4.1%</td>
         <td>1.1%</td>
         <td>1.3%</td>
-        <td>139400.0%</td>
+        <td> 1,394 </td>
         <td>2.1%</td>
         <td></td>
     </tr>
@@ -435,7 +435,7 @@ layout: splash
         <td>3.9%</td>
         <td>2.5%</td>
         <td>2.4%</td>
-        <td>105200.0%</td>
+        <td> 1,052 </td>
         <td>2.5%</td>
         <td></td>
     </tr>
@@ -453,7 +453,7 @@ layout: splash
         <td>3.9%</td>
         <td>1.6%</td>
         <td>2.2%</td>
-        <td>159500.0%</td>
+        <td> 1,595 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -471,7 +471,7 @@ layout: splash
         <td>3.5%</td>
         <td>1.6%</td>
         <td>2.4%</td>
-        <td>146000.0%</td>
+        <td> 1,460 </td>
         <td>2.1%</td>
         <td></td>
     </tr>
@@ -489,7 +489,7 @@ layout: splash
         <td>3.7%</td>
         <td>2.1%</td>
         <td>2.6%</td>
-        <td>115700.0%</td>
+        <td> 1,157 </td>
         <td>2.4%</td>
         <td></td>
     </tr>
@@ -507,7 +507,7 @@ layout: splash
         <td>4.1%</td>
         <td>1.2%</td>
         <td>2.0%</td>
-        <td>154400.0%</td>
+        <td> 1,544 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -525,7 +525,7 @@ layout: splash
         <td>3.8%</td>
         <td>0.8%</td>
         <td>2.3%</td>
-        <td>150100.0%</td>
+        <td> 1,501 </td>
         <td>2.1%</td>
         <td></td>
     </tr>
@@ -543,7 +543,7 @@ layout: splash
         <td>4.2%</td>
         <td>1.3%</td>
         <td>2.0%</td>
-        <td>166000.0%</td>
+        <td> 1,660 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -561,7 +561,7 @@ layout: splash
         <td>3.6%</td>
         <td>1.1%</td>
         <td>2.6%</td>
-        <td>154000.0%</td>
+        <td> 1,540 </td>
         <td>2.1%</td>
         <td></td>
     </tr>
@@ -579,7 +579,7 @@ layout: splash
         <td>3.9%</td>
         <td>2.6%</td>
         <td>2.0%</td>
-        <td>114500.0%</td>
+        <td> 1,145 </td>
         <td>2.3%</td>
         <td></td>
     </tr>
@@ -597,7 +597,7 @@ layout: splash
         <td>3.9%</td>
         <td>1.7%</td>
         <td>2.1%</td>
-        <td>152000.0%</td>
+        <td> 1,520 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -615,7 +615,7 @@ layout: splash
         <td>3.4%</td>
         <td>1.7%</td>
         <td>2.5%</td>
-        <td>211500.0%</td>
+        <td> 2,115 </td>
         <td>1.8%</td>
         <td></td>
     </tr>
@@ -633,7 +633,7 @@ layout: splash
         <td>4.3%</td>
         <td>2.5%</td>
         <td>2.6%</td>
-        <td>115200.0%</td>
+        <td> 1,152 </td>
         <td>2.4%</td>
         <td></td>
     </tr>
@@ -651,7 +651,7 @@ layout: splash
         <td>3.8%</td>
         <td>1.7%</td>
         <td>2.1%</td>
-        <td>158000.0%</td>
+        <td> 1,580 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -669,7 +669,7 @@ layout: splash
         <td>4.0%</td>
         <td>2.1%</td>
         <td>2.2%</td>
-        <td>113800.0%</td>
+        <td> 1,138 </td>
         <td>2.4%</td>
         <td></td>
     </tr>
@@ -687,7 +687,7 @@ layout: splash
         <td>3.3%</td>
         <td>1.5%</td>
         <td>1.8%</td>
-        <td>150500.0%</td>
+        <td> 1,505 </td>
         <td>2.1%</td>
         <td></td>
     </tr>
@@ -705,7 +705,7 @@ layout: splash
         <td>3.5%</td>
         <td>1.6%</td>
         <td>2.0%</td>
-        <td>153000.0%</td>
+        <td> 1,530 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -723,7 +723,7 @@ layout: splash
         <td>3.3%</td>
         <td>1.5%</td>
         <td>1.3%</td>
-        <td>160300.0%</td>
+        <td> 1,603 </td>
         <td>2.1%</td>
         <td></td>
     </tr>
@@ -741,7 +741,7 @@ layout: splash
         <td>3.9%</td>
         <td>2.0%</td>
         <td>2.5%</td>
-        <td>114800.0%</td>
+        <td> 1,148 </td>
         <td>2.5%</td>
         <td></td>
     </tr>
@@ -759,7 +759,7 @@ layout: splash
         <td>3.2%</td>
         <td>1.4%</td>
         <td>2.0%</td>
-        <td>140000.0%</td>
+        <td> 1,400 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -777,7 +777,7 @@ layout: splash
         <td>3.3%</td>
         <td>1.6%</td>
         <td>2.3%</td>
-        <td>165500.0%</td>
+        <td> 1,655 </td>
         <td>2.1%</td>
         <td></td>
     </tr>
@@ -795,7 +795,7 @@ layout: splash
         <td>3.9%</td>
         <td>2.3%</td>
         <td>2.3%</td>
-        <td>114200.0%</td>
+        <td> 1,142 </td>
         <td>2.3%</td>
         <td></td>
     </tr>
@@ -813,7 +813,7 @@ layout: splash
         <td>3.4%</td>
         <td>1.3%</td>
         <td>2.0%</td>
-        <td>140000.0%</td>
+        <td> 1,400 </td>
         <td>?</td>
         <td></td>
     </tr>
@@ -831,7 +831,7 @@ layout: splash
         <td>3.2%</td>
         <td>1.6%</td>
         <td>2.0%</td>
-        <td>274800.0%</td>
+        <td> 2,748 </td>
         <td>1.6%</td>
         <td></td>
     </tr>
@@ -849,7 +849,7 @@ layout: splash
         <td>3.9%</td>
         <td>2.7%</td>
         <td>2.0%</td>
-        <td>120800.0%</td>
+        <td> 1,208 </td>
         <td>2.3%</td>
         <td></td>
     </tr>
@@ -867,7 +867,7 @@ layout: splash
         <td>3.4%</td>
         <td>1.5%</td>
         <td>1.8%</td>
-        <td>140000.0%</td>
+        <td> 1,400 </td>
         <td>?</td>
         <td></td>
     </tr>
@@ -885,7 +885,7 @@ layout: splash
         <td>4.0%</td>
         <td>2.3%</td>
         <td>2.3%</td>
-        <td>159500.0%</td>
+        <td> 1,595 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -903,7 +903,7 @@ layout: splash
         <td>4.1%</td>
         <td>1.8%</td>
         <td>1.7%</td>
-        <td>114600.0%</td>
+        <td> 1,146 </td>
         <td>2.4%</td>
         <td></td>
     </tr>
@@ -921,7 +921,7 @@ layout: splash
         <td>3.3%</td>
         <td>1.6%</td>
         <td>2.0%</td>
-        <td>155500.0%</td>
+        <td> 1,555 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -939,7 +939,7 @@ layout: splash
         <td>3.6%</td>
         <td>1.1%</td>
         <td>1.8%</td>
-        <td>177400.0%</td>
+        <td> 1,774 </td>
         <td>1.9%</td>
         <td></td>
     </tr>
@@ -957,7 +957,7 @@ layout: splash
         <td>3.3%</td>
         <td>1.6%</td>
         <td>2.0%</td>
-        <td>140000.0%</td>
+        <td> 1,400 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -975,7 +975,7 @@ layout: splash
         <td>3.4%</td>
         <td>1.3%</td>
         <td>1.9%</td>
-        <td>147300.0%</td>
+        <td> 1,473 </td>
         <td>2.1%%</td>
         <td></td>
     </tr>
@@ -993,7 +993,7 @@ layout: splash
         <td>3.3%</td>
         <td>1.3%</td>
         <td>2.0%</td>
-        <td>140000.0%</td>
+        <td> 1,400 </td>
         <td>2%%</td>
         <td></td>
     </tr>
@@ -1011,7 +1011,7 @@ layout: splash
         <td>3.9%</td>
         <td>1.5%</td>
         <td>1.5%</td>
-        <td>120400.0%</td>
+        <td> 1,204 </td>
         <td>2.3%</td>
         <td></td>
     </tr>
@@ -1029,7 +1029,7 @@ layout: splash
         <td>3.2%</td>
         <td>1.3%</td>
         <td>2.2%</td>
-        <td>173300.0%</td>
+        <td> 1,733 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -1047,7 +1047,7 @@ layout: splash
         <td>3.3%</td>
         <td>1.4%</td>
         <td>1.9%</td>
-        <td>116300.0%</td>
+        <td> 1,163 </td>
         <td>2.3%</td>
         <td></td>
     </tr>
@@ -1065,7 +1065,7 @@ layout: splash
         <td>3.5%</td>
         <td>1.7%</td>
         <td>2.1%</td>
-        <td>140000.0%</td>
+        <td> 1,400 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -1083,7 +1083,7 @@ layout: splash
         <td>3.7%</td>
         <td>1.6%</td>
         <td>1.8%</td>
-        <td>116200.0%</td>
+        <td> 1,162 </td>
         <td>2.3%</td>
         <td></td>
     </tr>
@@ -1101,7 +1101,7 @@ layout: splash
         <td>3.9%</td>
         <td>0.7%</td>
         <td>1.8%</td>
-        <td>124800.0%</td>
+        <td> 1,248 </td>
         <td>2.3%</td>
         <td></td>
     </tr>
@@ -1119,7 +1119,7 @@ layout: splash
         <td>3.3%</td>
         <td>2.5%</td>
         <td>2.1%</td>
-        <td>140000.0%</td>
+        <td> 1,400 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -1137,7 +1137,7 @@ layout: splash
         <td>3.7%</td>
         <td>2.3%</td>
         <td>1.8%</td>
-        <td>121300.0%</td>
+        <td> 1,213 </td>
         <td>2.8%</td>
         <td></td>
     </tr>
@@ -1155,7 +1155,7 @@ layout: splash
         <td>3.3%</td>
         <td>3.9%</td>
         <td>1.9%</td>
-        <td>160700.0%</td>
+        <td> 1,607 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -1173,7 +1173,7 @@ layout: splash
         <td>4.2%</td>
         <td>0.0%</td>
         <td>1.7%</td>
-        <td>85000.0%</td>
+        <td> 850 </td>
         <td>3.1%</td>
         <td></td>
     </tr>
@@ -1191,7 +1191,7 @@ layout: splash
         <td>3.7%</td>
         <td>0.0%</td>
         <td>2.0%</td>
-        <td>177400.0%</td>
+        <td> 1,774 </td>
         <td>1.9%</td>
         <td></td>
     </tr>
@@ -1209,7 +1209,7 @@ layout: splash
         <td>3.7%</td>
         <td>0.0%</td>
         <td>2.4%</td>
-        <td>159300.0%</td>
+        <td> 1,593 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -1227,7 +1227,7 @@ layout: splash
         <td>3.6%</td>
         <td>0.0%</td>
         <td>1.9%</td>
-        <td>195700.0%</td>
+        <td> 1,957 </td>
         <td>1.8%</td>
         <td></td>
     </tr>
@@ -1245,7 +1245,7 @@ layout: splash
         <td>3.5%</td>
         <td>0.0%</td>
         <td>2.6%</td>
-        <td>140000.0%</td>
+        <td> 1,400 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -1263,7 +1263,7 @@ layout: splash
         <td>3.6%</td>
         <td>0.0%</td>
         <td>2.5%</td>
-        <td>140000.0%</td>
+        <td> 1,400 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -1281,7 +1281,7 @@ layout: splash
         <td>3.5%</td>
         <td>0.0%</td>
         <td>2.6%</td>
-        <td>142000.0%</td>
+        <td> 1,420 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -1299,7 +1299,7 @@ layout: splash
         <td>3.6%</td>
         <td>0.0%</td>
         <td>2.3%</td>
-        <td>167700.0%</td>
+        <td> 1,677 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -1317,7 +1317,7 @@ layout: splash
         <td>3.5%</td>
         <td>0.0%</td>
         <td>2.4%</td>
-        <td>140400.0%</td>
+        <td> 1,404 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -1335,7 +1335,7 @@ layout: splash
         <td>3.4%</td>
         <td>0.0%</td>
         <td>2.2%</td>
-        <td>143000.0%</td>
+        <td> 1,430 </td>
         <td>2.1%</td>
         <td></td>
     </tr>
@@ -1353,7 +1353,7 @@ layout: splash
         <td>3.5%</td>
         <td>0.0%</td>
         <td>2.4%</td>
-        <td>134400.0%</td>
+        <td> 1,344 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -1371,7 +1371,7 @@ layout: splash
         <td>3.8%</td>
         <td>0.0%</td>
         <td>1.8%</td>
-        <td>113200.0%</td>
+        <td> 1,132 </td>
         <td>1.8%</td>
         <td></td>
     </tr>
@@ -1389,7 +1389,7 @@ layout: splash
         <td>3.3%</td>
         <td>0.0%</td>
         <td>2.3%</td>
-        <td>140000.0%</td>
+        <td> 1,400 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -1407,7 +1407,7 @@ layout: splash
         <td>3.6%</td>
         <td>0.0%</td>
         <td>2.0%</td>
-        <td>145100.0%</td>
+        <td> 1,451 </td>
         <td>1.6%</td>
         <td></td>
     </tr>
@@ -1425,7 +1425,7 @@ layout: splash
         <td>3.7%</td>
         <td>0.0%</td>
         <td>2.5%</td>
-        <td>140000.0%</td>
+        <td> 1,400 </td>
         <td>?</td>
         <td></td>
     </tr>
@@ -1443,7 +1443,7 @@ layout: splash
         <td>4.3%</td>
         <td>0.0%</td>
         <td>2.0%</td>
-        <td>141900.0%</td>
+        <td> 1,419 </td>
         <td>1.6%</td>
         <td></td>
     </tr>
@@ -1461,7 +1461,7 @@ layout: splash
         <td>3.4%</td>
         <td>0.0%</td>
         <td>2.3%</td>
-        <td>140000.0%</td>
+        <td> 1,400 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -1479,7 +1479,7 @@ layout: splash
         <td>3.6%</td>
         <td>0.0%</td>
         <td>2.3%</td>
-        <td>146900.0%</td>
+        <td> 1,469 </td>
         <td>1.6%</td>
         <td></td>
     </tr>
@@ -1497,7 +1497,7 @@ layout: splash
         <td>3.7%</td>
         <td>0.0%</td>
         <td>2.2%</td>
-        <td>140000.0%</td>
+        <td> 1,400 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -1515,7 +1515,7 @@ layout: splash
         <td>3.5%</td>
         <td>0.0%</td>
         <td>2.2%</td>
-        <td>231100.0%</td>
+        <td> 2,311 </td>
         <td>1.3%</td>
         <td></td>
     </tr>
@@ -1533,7 +1533,7 @@ layout: splash
         <td>3.4%</td>
         <td>0.0%</td>
         <td>2.2%</td>
-        <td>162200.0%</td>
+        <td> 1,622 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -1551,7 +1551,7 @@ layout: splash
         <td>3.6%</td>
         <td>0.0%</td>
         <td>2.5%</td>
-        <td>268200.0%</td>
+        <td> 2,682 </td>
         <td>1.3%</td>
         <td></td>
     </tr>
@@ -1569,7 +1569,7 @@ layout: splash
         <td>3.7%</td>
         <td>0.0%</td>
         <td>2.4%</td>
-        <td>150500.0%</td>
+        <td> 1,505 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -1587,7 +1587,7 @@ layout: splash
         <td>3.6%</td>
         <td>0.0%</td>
         <td>2.3%</td>
-        <td>169000.0%</td>
+        <td> 1,690 </td>
         <td>1.5%</td>
         <td></td>
     </tr>
@@ -1605,7 +1605,7 @@ layout: splash
         <td>3.5%</td>
         <td>0.0%</td>
         <td>2.3%</td>
-        <td>150700.0%</td>
+        <td> 1,507 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -1623,7 +1623,7 @@ layout: splash
         <td>3.9%</td>
         <td>0.0%</td>
         <td>2.5%</td>
-        <td>168900.0%</td>
+        <td> 1,689 </td>
         <td>1.5%</td>
         <td></td>
     </tr>
@@ -1641,7 +1641,7 @@ layout: splash
         <td>3.7%</td>
         <td>0.0%</td>
         <td>2.2%</td>
-        <td>158300.0%</td>
+        <td> 1,583 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -1659,7 +1659,7 @@ layout: splash
         <td>3.4%</td>
         <td>0.0%</td>
         <td>2.1%</td>
-        <td>179200.0%</td>
+        <td> 1,792 </td>
         <td>1.5%</td>
         <td></td>
     </tr>
@@ -1677,7 +1677,7 @@ layout: splash
         <td>4.2%</td>
         <td>0.0%</td>
         <td>2.3%</td>
-        <td>153200.0%</td>
+        <td> 1,532 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -1695,7 +1695,7 @@ layout: splash
         <td>3.4%</td>
         <td>0.0%</td>
         <td>2.0%</td>
-        <td>130000.0%</td>
+        <td> 1,300 </td>
         <td>1.8%</td>
         <td></td>
     </tr>
@@ -1713,7 +1713,7 @@ layout: splash
         <td>3.5%</td>
         <td>0.0%</td>
         <td>2.0%</td>
-        <td>140000.0%</td>
+        <td> 1,400 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -1731,7 +1731,7 @@ layout: splash
         <td>3.5%</td>
         <td>0.0%</td>
         <td>1.4%</td>
-        <td>162300.0%</td>
+        <td> 1,623 </td>
         <td>1.6%</td>
         <td></td>
     </tr>
@@ -1749,7 +1749,7 @@ layout: splash
         <td>3.5%</td>
         <td>0.0%</td>
         <td>2.0%</td>
-        <td>140000.0%</td>
+        <td> 1,400 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -1767,7 +1767,7 @@ layout: splash
         <td>3.4%</td>
         <td>0.0%</td>
         <td>2.1%</td>
-        <td>190600.0%</td>
+        <td> 1,906 </td>
         <td>1.5%</td>
         <td></td>
     </tr>
@@ -1785,7 +1785,7 @@ layout: splash
         <td>3.9%</td>
         <td>0.0%</td>
         <td>2.0%</td>
-        <td>140000.0%</td>
+        <td> 1,400 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -1803,7 +1803,7 @@ layout: splash
         <td>4.0%</td>
         <td>0.0%</td>
         <td>1.5%</td>
-        <td>183700.0%</td>
+        <td> 1,837 </td>
         <td>1.5%</td>
         <td></td>
     </tr>
@@ -1821,7 +1821,7 @@ layout: splash
         <td>3.5%</td>
         <td>0.0%</td>
         <td>1.9%</td>
-        <td>164900.0%</td>
+        <td> 1,649 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -1839,7 +1839,7 @@ layout: splash
         <td>2.9%</td>
         <td>0.0%</td>
         <td>1.6%</td>
-        <td>156100.0%</td>
+        <td> 1,561 </td>
         <td>1.7%</td>
         <td></td>
     </tr>
@@ -1857,7 +1857,7 @@ layout: splash
         <td>3.1%</td>
         <td>0.0%</td>
         <td>1.9%</td>
-        <td>140000.0%</td>
+        <td> 1,400 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -1875,7 +1875,7 @@ layout: splash
         <td>2.7%</td>
         <td>0.0%</td>
         <td>1.5%</td>
-        <td>167100.0%</td>
+        <td> 1,671 </td>
         <td>1.6%</td>
         <td></td>
     </tr>
@@ -1893,7 +1893,7 @@ layout: splash
         <td>3.3%</td>
         <td>0.0%</td>
         <td>2.1%</td>
-        <td>176700.0%</td>
+        <td> 1,767 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -1911,7 +1911,7 @@ layout: splash
         <td>3.4%</td>
         <td>0.0%</td>
         <td>2.0%</td>
-        <td>211900.0%</td>
+        <td> 2,119 </td>
         <td>1.6%</td>
         <td></td>
     </tr>
@@ -1929,7 +1929,7 @@ layout: splash
         <td>3.2%</td>
         <td>0.0%</td>
         <td>2.2%</td>
-        <td>166900.0%</td>
+        <td> 1,669 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -1947,7 +1947,7 @@ layout: splash
         <td>3.1%</td>
         <td>0.0%</td>
         <td>2.1%</td>
-        <td>288000.0%</td>
+        <td> 2,880 </td>
         <td>1.6%</td>
         <td></td>
     </tr>
@@ -1965,7 +1965,7 @@ layout: splash
         <td>3.4%</td>
         <td>0.0%</td>
         <td>2.5%</td>
-        <td>140000.0%</td>
+        <td> 1,400 </td>
         <td>2.0%</td>
         <td></td>
     </tr>
@@ -1983,7 +1983,7 @@ layout: splash
         <td>3.5%</td>
         <td>0.0%</td>
         <td>2.5%</td>
-        <td>–</td>
+        <td> – </td>
         <td>–</td>
     </tr>
 </table>
