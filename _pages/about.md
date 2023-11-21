@@ -14,10 +14,10 @@ Syksyn kuluessa idea jalostui ja kehittyi, mukaan päätettiin lisätä mittaust
 Databyro pyörii täysin vapaaehtoisvoimin, rakkaudesta lajiin, eikä suunnitelmissa ole myydä mainostilaa sivustolle. Tämä takaa sivuston häiriöttömän käytön ja politiikan sisältöön keskittymisen. Osin vapaaehtoisvoimaisuudesta johtuen uusien kokonaisuuksien lisääminen sivustolle tapahtuu asteittain siihen aikaa jäädessä.
 </p>
 <hr>
-<h5>Julius Lehtinen</h5>
-<h6>julius.lehtinen@databyro.fi</h6>
+<p><h5>Julius Lehtinen</h5>
+<i>julius.lehtinen@databyro.fi</i></p>
 <p>Valtio-opin maisteri Helsingin Yliopistosta, Europe Electsin -vaalianalyysi-startupin pidemmästä julkaisutoiminnasta vastaava päätoimittaja. Intohimona politiikka, tilastotiede ja todennäköisyys. Vastaa useimmista sivuston sisällöistä. Twitterissä ja Blueskyssa tunnuksella @Julleht.</p>
 <hr>
-<h5>Eemi Saarela</h5>
-<h6>eemi.saarela@databyro.fi</h6>
+<p></p><h5>Eemi Saarela</h5>
+<i>eemi.saarela@databyro.fi</i></p>
 <p>Jyväskylän Yliopistossa tietojärjestelmätieteitä opiskeleva kylteri, joka väitetysti osaa käsitellä isojakin datapaketteja. Vastaa sivuston taustalla pyörivistä työkaluista ja niiden automatisoinnista.</p>
