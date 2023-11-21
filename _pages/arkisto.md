@@ -3,7 +3,7 @@ permalink: /arkisto/
 title: "Arkisto"
 ---
 <br>
-
+<h4>Puolueiden kannatus 2015–2019</h4><br>
 <div style="overflow-x:auto;">
 <table>
 <tr style="text-align:center"><td style="text-align:left">Toteuttaja</td><td style="text-align:left">Keruuaika</td><td></td><td>Kesk</td><td>Kok</td><td>PS</td><td>SDP</td><td>Vihr</td><td>Vas</td><td>SFP</td><td>KD</td><td>Sin</td><td>Muut</td><td style="text-align:left">Otanta</td><td style="text-align:left">Ilmoitettu virhemarginaali</td></tr>
