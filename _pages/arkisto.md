@@ -1,6 +1,7 @@
 ---
 permalink: /arkisto/
 title: "Arkisto"
+layout: splash
 ---
 <br>
 <h4>Puolueiden kannatus 2015–2019</h4><br>
