@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "Meistä"
-layout: "Splash"
+layout: splash
 ---
 <h4>Databyro</h4>
 <p>
