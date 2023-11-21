@@ -41,7 +41,6 @@ layout: splash
         <td>4.4%</td>
         <td> – </td>
         <td>–</td>
-        <td>–</td>
     </tr>
     <tr>
         <td>Taloustutkimus</td>
