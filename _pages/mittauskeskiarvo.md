@@ -7,9 +7,9 @@ layout: splash
 <br>
 <div style="min-height:500px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/1wijf/embed.js?v=5" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/1wijf/full.png" alt="Puoluekannatus Suomessa – aikasarja" /></noscript></div>
 <br>
-<h4>Mittaukset eduskuntavaaleista 2023</h4>
+<h4>Viimeisimmät mittaukset</h4>
 <div style="overflow-x:hidden;width:100%;height:500px;">
-<iframe src="https://storage.googleapis.com/asapop-website-20220812/_widgets/tables/fi.html" style="overflow-x:auto;width:100%;height:500px;border-style:solid;border-width:5px;"></iframe>
+<iframe src="https://storage.googleapis.com/asapop-website-20220812/_widgets/tables/fi.html" style="overflow-x:auto;width:100%;height:500px;border-style:solid;border-width:1px;"></iframe>
 </div>
 
 <!--
