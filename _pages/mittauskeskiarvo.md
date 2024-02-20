@@ -8,7 +8,11 @@ layout: splash
 <div style="min-height:500px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/1wijf/embed.js?v=5" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/1wijf/full.png" alt="Puoluekannatus Suomessa – aikasarja" /></noscript></div>
 <br>
 <h4>Mittaukset eduskuntavaaleista 2023</h4>
+<div style="overflow-x:hidden;width:100%;height:500px;">
+<iframe src="https://storage.googleapis.com/asapop-website-20220812/_widgets/tables/fi.html" style="overflow-x:auto;width:100%;height:500px;border-style:solid;border-width:5px;"></iframe>
+</div>
 
+<!--
 <div style="overflow-x:auto;">
 <table>
   
@@ -50,7 +54,6 @@ layout: splash
   <td style="background-color:white"></td>
 </tr>
 
-<!--
 <tr>
 <td><a href="" target="_blank" rel="noopener"></a><a href=""><sup>[55]</sup></a></td>
 <td></td>
@@ -68,7 +71,7 @@ layout: splash
 <td></td>
 <td></td>
 </tr>
--->
 
 </table>
 </div>
+-->
