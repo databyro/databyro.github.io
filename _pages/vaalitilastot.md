@@ -3,7 +3,7 @@ permalink: /vaalitilastot/
 title: "Tilastoja eduskuntavaaleista 1975–2023"
 layout: splash
 ---
-
+<br>
 <p>
   Vaalien aikaan eduskunnan koostumus muuttuu. Suomessa keskimäärin 40 % prosenttia eduskunnasta eli 80 edellisissä vaaleissa valittua kansanedustajaa eivät ole uudessa kokoonpanossa mukana vaalien jälkeen. Osaksi se johtuu siitä, ettei ole tällä kertaa vaaleissa ehdolla syystä tai toisesta. Osa istuvista kansanedustajista kuitenkin putoaa eduskunnasta siitä huolimatta, että oli vaaleissa ehdolla.
 </p>
