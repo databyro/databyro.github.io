@@ -13,7 +13,7 @@ layout: splash
 </p>
 
 <p>
-  Alla on taulukoitu syyt eduskunnan koostumuksen uusiutumiseen vuoden 1975 vaaleista alkaen, jonka jälkeen eduskuntavaalit on säännönmukaisesti järjestetty neljän vuoden välein. Osa datasta on Gianluca Passarellin (2020) teoksesta <i>Preferential Voting Systems</i>, osa etenkin viimeisistä vaaleista on itse taulukoitua tuoretta dataa.
+  Alla on taulukoitu syyt eduskunnan koostumuksen uusiutumiseen vuoden 1975 vaaleista alkaen, jonka jälkeen eduskuntavaalit on säännönmukaisesti järjestetty neljän vuoden välein. Osa datasta on Gianluca Passarellin (2020, s. 171) teoksesta <i>Preferential Voting Systems</i>, osa etenkin viimeisistä vaaleista on itse taulukoitua tuoretta dataa.
 </p>
 
 <div style="overflow-x:auto;">
