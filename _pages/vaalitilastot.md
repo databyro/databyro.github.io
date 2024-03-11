@@ -4,7 +4,17 @@ title: "Tilastoja eduskuntavaaleista 1975–2023"
 layout: splash
 ---
 
-<br>
+<p>
+  Vaalien aikaan eduskunnan koostumus muuttuu. Suomessa keskimäärin 40 % prosenttia eduskunnasta eli 80 edellisissä vaaleissa valittua kansanedustajaa eivät ole uudessa kokoonpanossa mukana vaalien jälkeen. Osaksi se johtuu siitä, ettei ole tällä kertaa vaaleissa ehdolla syystä tai toisesta. Osa istuvista kansanedustajista kuitenkin putoaa eduskunnasta siitä huolimatta, että oli vaaleissa ehdolla.
+</p>
+
+<p>
+  Syyt rannalle jäämiseen voidaan kotimaisissa vaaleissa jakaa karkeasti kahteen kategoriaan. Joko puolue menestyi vaalipiirissä heikommin kuin edellisellä kerralla menettäen paikan, jolloin joku istuvista kansanedustajista jää ulkopuolelle, vaikkei uusia tulokkaita puolueen listalta sisään pääsisi. Tähän viitataan alla otsakkeella "puolueen pärjääminen". Toinen vaihtoehto on, että istuva kansanedustaja putoaa eduskunnasta uuden tulokkaan mennessä henkilökohtaisissa äänissä tämän ohi, vaikka puolueen saavuttamat paikat eivät välttämättä laskisikaan. Tätä kutsutaan alla otsakkeella "henkilökohtaiset äänet".
+</p>
+
+<p>
+  Alla on taulukoitu syyt eduskunnan koostumuksen uusiutumiseen vuoden 1975 vaaleista alkaen, jonka jälkeen eduskuntavaalit on säännönmukaisesti järjestetty neljän vuoden välein. Osa datasta on Gianluca Passarellin (2020) teoksesta <i>Preferential Voting Systems</i>, osa etenkin viimeisistä vaaleista on itse taulukoitua tuoretta dataa.
+</p>
 
 <div style="overflow-x:auto;">
 <table>
