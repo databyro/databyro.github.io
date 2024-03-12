@@ -67,14 +67,6 @@ layout: splash
         <td>14.0%</td>
     </tr>
     <tr>
-        <td>2015</td>
-        <td>200</td>
-        <td>19.5%</td>
-        <td>61.0%</td>
-        <td>2.5%</td>
-        <td>17.0%</td>
-    </tr>
-    <tr>
         <td>2011</td>
         <td>200</td>
         <td>26.5%</td>
@@ -206,14 +198,6 @@ layout: splash
         <td>123</td>
         <td>8</td>
         <td>28</td>
-    </tr>
-    <tr>
-        <td>2015</td>
-        <td>200</td>
-        <td>39</td>
-        <td>122</td>
-        <td>5</td>
-        <td>34</td>
     </tr>
     <tr>
         <td>2011</td>
