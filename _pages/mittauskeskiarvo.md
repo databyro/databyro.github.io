@@ -10,7 +10,7 @@ layout: splash
 </div>
 <br>
 <h4>Viimeisimmät mittaukset</h4>
-<div style="overflow-x:auto>
+<div style="overflow-x:auto">
 <div style="overflow-x:hidden;width:1000px;height:500px;">
 <iframe src="https://storage.googleapis.com/asapop-website-20220812/_widgets/tables/fi.html" style="overflow-x:auto;width:100%;height:500px;border-style:solid;border-width:1px;"></iframe>
 </div>
