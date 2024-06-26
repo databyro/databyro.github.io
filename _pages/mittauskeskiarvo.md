@@ -6,7 +6,7 @@ layout: splash
 
 <br>
 <div style="overflow-x:auto;">
-<div style="min-height:454px;width:1000px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/1wijf/embed.js?v=17" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/1wijf/full.png" alt="Puoluekannatus Suomessa – aikasarja" /></noscript></div>
+<div style="min-height:540px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/1wijf/embed.js?v=22" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/1wijf/full.png" alt="Puoluekannatus Suomessa – aikasarja" /></noscript></div>
 </div>
 <br>
 <h4>Viimeisimmät mittaukset</h4>
