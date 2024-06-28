@@ -17,7 +17,7 @@ layout: splash
 </div>
 <br>
 <div style="overflow-x:auto;width:100%;">
-<div style="min-height:540px;width:1000px;"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/TgtyE/embed.js?v=3" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/TgtyE/full.png" alt="" /></noscript></div>
+<div style="min-height:540px;width:1000px;"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/TgtyE/embed.js?v=4" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/TgtyE/full.png" alt="" /></noscript></div>
 </div>
 
 <!--
