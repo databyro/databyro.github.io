@@ -19,6 +19,10 @@ layout: splash
 <div style="overflow-x:auto;width:100%;">
 <div style="min-height:540px;width:1000px;"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/TgtyE/embed.js?v=5" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/TgtyE/full.png" alt="" /></noscript></div>
 </div>
+<br>
+<div style="overflow-x:auto;width:100%;">
+<div style="min-height:543px;width:1000px" id="datawrapper-vis-hCW0c"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/hCW0c/embed.js" charset="utf-8" data-target="#datawrapper-vis-hCW0c"></script><noscript><img src="https://datawrapper.dwcdn.net/hCW0c/full.png" alt="Puoluekannatus Suomessa – aikasarja" /></noscript></div>
+</div>
 
 <!--
 <div style="overflow-x:auto;">
