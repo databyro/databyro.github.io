@@ -10,11 +10,7 @@ layout: splash
 </div>
 <br>
 <h4>Viimeisimmät mittaukset</h4>
-<div style="overflow-x:auto;width:100%;">
-<div style="overflow-x:hidden;width:1000px;height:500px;">
-<iframe src="https://storage.googleapis.com/asapop-website-20220812/_widgets/tables/fi.html" style="overflow-x:auto;width:100%;height:500px;border-style:solid;border-width:1px;"></iframe>
-</div>
-</div>
+<div style="min-height:901px" id="datawrapper-vis-3hNzs"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/3hNzs/embed.js" charset="utf-8" data-target="#datawrapper-vis-3hNzs"></script><noscript><img src="https://datawrapper.dwcdn.net/3hNzs/full.png" alt="Viimeisimmät puoluekannatusmittaukset" /></noscript></div>
 <br>
 <div style="overflow-x:auto;width:100%;">
 <div style="min-height:540px;width:1000px;"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/TgtyE/embed.js?v=5" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/TgtyE/full.png" alt="" /></noscript></div>
