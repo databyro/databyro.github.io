@@ -16,7 +16,7 @@ Databyro pyörii täysin vapaaehtoisvoimin, rakkaudesta lajiin, eikä suunnitelm
 <hr>
 <p><h5>Julius Lehtinen</h5>
 <i>julius.lehtinen@databyro.fi</i></p>
-<p>Politiikan tutkimuksen väitöskirjatutkija Helsingin yliopistossa, Europe Electsin -vaalianalyysi-startupin pidemmästä julkaisutoiminnasta vastaava päätoimittaja. Intohimona politiikka, tilastotiede ja todennäköisyys. Vastaa useimmista sivuston sisällöistä. Löydät Juliuksen myös <a href="https://x.com/Julleht" target="_blank">Twitteristä</a> ja <a href="https://lehtinen.substack.com/" target="_blank">Substackista</a></p>
+<p>Politiikan tutkimuksen <a href="https://researchportal.helsinki.fi/en/persons/julius-lehtinen" target="_blank">väitöskirjatutkija Helsingin yliopistossa</a>. Lehtinen vastasi <a href="https://europeelects.eu/" target="_blank">Europe Elects -vaalianalyysiprojektin</a> pidemmästä julkaisutoiminnasta vuosina 2019–25. Intohimona politiikka, tilastotiede ja todennäköisyys. Vastaa useimmista sivuston sisällöistä. Löydät Juliuksen myös <a href="https://x.com/Julleht" target="_blank">Twitteristä</a> ja <a href="https://lehtinen.substack.com/" target="_blank">Substackista</a></p>
 <hr>
 <p><h5>Eemi Saarela</h5>
 <i>eemi.saarela@databyro.fi</i></p>
