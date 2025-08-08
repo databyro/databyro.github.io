@@ -1,6 +1,8 @@
 main:
   - title: "Puoluekannatus"
     url: /mittauskeskiarvo/
+  - title: "Hallitukset"
+    url: /hallitukset/
   - title: "Tarkkuus"
     url: /tarkkuus/
   - title: "Vaalitilastot"
