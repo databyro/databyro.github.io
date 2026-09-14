@@ -5,15 +5,15 @@ layout: splash
 ---
 <br>
 <p>
-  Vaalien aikaan eduskunnan koostumus muuttuu. Suomessa keskimäärin 40 % prosenttia eduskunnasta eli 80 edellisissä vaaleissa valittua kansanedustajaa eivät ole uudessa kokoonpanossa mukana vaalien jälkeen. Osaksi se johtuu siitä, ettei ole tällä kertaa vaaleissa ehdolla syystä tai toisesta. Osa istuvista kansanedustajista kuitenkin putoaa eduskunnasta siitä huolimatta, että oli vaaleissa ehdolla.
+Vaalien aikaan eduskunnan koostumus muuttuu. Suomessa keskimäärin 40 prosenttia eduskunnasta eli 80 edellisissä vaaleissa valittua kansanedustajaa eivät ole uudessa kokoonpanossa mukana vaalien jälkeen. Osaksi se johtuu siitä, etteivät kaikki ole tällä kertaa vaaleissa ehdolla syystä tai toisesta. Osa istuvista kansanedustajista kuitenkin putoaa eduskunnasta siitä huolimatta, että oli vaaleissa ehdolla.
 </p>
 
 <p>
-  Syyt rannalle jäämiseen voidaan kotimaisissa vaaleissa jakaa karkeasti kahteen kategoriaan. Joko puolue menestyi vaalipiirissä heikommin kuin edellisellä kerralla menettäen paikan, jolloin joku istuvista kansanedustajista jää ulkopuolelle, vaikkei uusia tulokkaita puolueen listalta sisään pääsisi. Tähän viitataan alla otsakkeella "puolueen pärjääminen". Toinen vaihtoehto on, että istuva kansanedustaja putoaa eduskunnasta uuden tulokkaan mennessä henkilökohtaisissa äänissä tämän ohi, vaikka puolueen saavuttamat paikat eivät välttämättä laskisikaan. Tätä kutsutaan alla otsakkeella "henkilökohtaiset äänet".
+Syyt rannalle jäämiseen jaetaan tässä kahteen luokkaan Katzin (1986) sääntöä noudattaen. Luokittelu tehdään vaalipiireittäin ja puolueittain. Jos puolueen listalta ei valittu vaalipiirissä yhtään uutta tulokasta, kaikki saman puolueen istuvien kansanedustajien putoamiset kyseisessä vaalipiirissä luetaan puolueen pärjäämisen syyksi. Jos taas listalta valittiin vähintään yksi uusi tulokas, kaikki putoamiset luetaan henkilökohtaisten äänten syyksi – myös silloin, kun puolue samalla menetti paikkoja (ks. Passarelli 2020, 213–219.)
 </p>
 
 <p>
-  Alla on taulukoitu syyt eduskunnan koostumuksen uusiutumiseen vuoden 1975 vaaleista alkaen, jonka jälkeen eduskuntavaalit on säännönmukaisesti järjestetty neljän vuoden välein. Osa datasta on Gianluca Passarellin (2020, s. 171) teoksesta <i>Preferential Voting Systems</i>, osa etenkin viimeisistä vaaleista on itse taulukoitua tuoretta dataa.
+Alla on taulukoitu syyt eduskunnan koostumuksen uusiutumiseen vuoden 1975 vaaleista alkaen, jonka jälkeen eduskuntavaalit on säännönmukaisesti järjestetty neljän vuoden välein. Data vaaleista 1975–2015 on Gianluca Passarellin (2020, s. 171) teoksesta <i>Preferential Voting Systems</i>, vaalit 2019 ja 2023 ovat itse taulukoitua tuoretta dataa.
 </p>
 
 <div style="overflow-x:auto;">
@@ -37,10 +37,10 @@ layout: splash
     <tr>
         <td>Keskiarvo</td>
         <td>200</td>
-        <td>20.1%</td>
-        <td>60.0%</td>
+        <td>20.0%</td>
+        <td>59.9%</td>
         <td>3.1%</td>
-        <td>16.8%</td>
+        <td>17.0%</td>
     </tr>
     <tr>
         <td>2023</td>
@@ -61,10 +61,10 @@ layout: splash
     <tr>
         <td>2015</td>
         <td>200</td>
-        <td>20.5%</td>
-        <td>61.5%</td>
-        <td>4.0%</td>
-        <td>14.0%</td>
+        <td>19.5%</td>
+        <td>61.0%</td>
+        <td>2.5%</td>
+        <td>17.0%</td>
     </tr>
     <tr>
         <td>2011</td>
@@ -171,9 +171,9 @@ layout: splash
         <td>Keskiarvo</td>
         <td>200</td>
         <td>40.1</td>
-        <td>120.1</td>
-        <td>6.3</td>
-        <td>33.5</td>
+        <td>119.8</td>
+        <td>6.2</td>
+        <td>33.9</td>
     </tr>
     <tr>
         <td>2023</td>
@@ -194,10 +194,10 @@ layout: splash
     <tr>
         <td>2015</td>
         <td>200</td>
-        <td>41</td>
-        <td>123</td>
-        <td>8</td>
-        <td>28</td>
+        <td>39</td>
+        <td>122</td>
+        <td>5</td>
+        <td>34</td>
     </tr>
     <tr>
         <td>2011</td>
