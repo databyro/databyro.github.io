@@ -5,11 +5,11 @@ layout: splash
 ---
 <br>
 <p>
-Vaalien aikaan eduskunnan koostumus muuttuu. Suomessa keskimäärin 40 prosenttia eduskunnasta eli 80 edellisissä vaaleissa valittua kansanedustajaa eivät ole uudessa kokoonpanossa mukana vaalien jälkeen. Osaksi se johtuu siitä, etteivät kaikki ole tällä kertaa vaaleissa ehdolla syystä tai toisesta. Osa istuvista kansanedustajista kuitenkin putoaa eduskunnasta siitä huolimatta, että oli vaaleissa ehdolla.
+Vaalien aikaan eduskunnan koostumus muuttuu. Suomessa keskimäärin 40 prosenttia eduskunnasta eli 80 edellisissä vaaleissa valittua kansanedustajaa ei ole uudessa kokoonpanossa mukana vaalien jälkeen. Osaksi se johtuu siitä, etteivät kaikki ole tällä kertaa vaaleissa ehdolla syystä tai toisesta. Osa istuvista kansanedustajista kuitenkin putoaa eduskunnasta siitä huolimatta, että oli vaaleissa ehdolla.
 </p>
 
 <p>
-Syyt rannalle jäämiseen jaetaan tässä kahteen luokkaan Katzin (1986) sääntöä noudattaen. Luokittelu tehdään vaalipiireittäin ja puolueittain. Jos puolueen listalta ei valittu vaalipiirissä yhtään uutta tulokasta, kaikki saman puolueen istuvien kansanedustajien putoamiset kyseisessä vaalipiirissä luetaan puolueen pärjäämisen syyksi. Jos taas listalta valittiin vähintään yksi uusi tulokas, kaikki putoamiset luetaan henkilökohtaisten äänten syyksi – myös silloin, kun puolue samalla menetti paikkoja (ks. Passarelli 2020, 213–219.)
+Syyt rannalle jäämiseen jaetaan tässä kahteen luokkaan Katzin (1986) sääntöä noudattaen. Luokittelu tehdään vaalipiireittäin ja puolueittain. Jos puolueen listalta ei valittu vaalipiirissä yhtään eduskunnan ulkopuolella vaalien aikaan ollutta, kaikki saman puolueen istuvien kansanedustajien putoamiset kyseisessä vaalipiirissä luetaan puolueen pärjäämisen syyksi. Jos taas listalta valittiin vähintään yksi uusi tulokas, kaikki putoamiset luetaan henkilökohtaisten äänten syyksi – myös silloin, kun puolue samalla menetti paikkoja (ks. Passarelli 2020, 213–219).
 </p>
 
 <p>
@@ -280,3 +280,12 @@ Alla on taulukoitu syyt eduskunnan koostumuksen uusiutumiseen vuoden 1975 vaalei
         <td>36</td>
     </tr>
 </table>
+<br>
+<b>Lähteet:</b>
+<p style="padding-left:2em; text-indent:-2em;">
+Katz, R. S. (1986). Intraparty preference voting. Teoksessa B. Grofman &amp; A. Lijphart (toim.), <i>Electoral laws and their political consequences</i> (s. 85–103). Agathon Press.
+</p>
+
+<p style="padding-left:2em; text-indent:-2em;">
+Passarelli, G. (2020). <i>Preferential voting systems: Influence on intra-party competition and voting behaviour</i>. Palgrave Macmillan. <a href="https://doi.org/10.1007/978-3-030-25286-1">https://doi.org/10.1007/978-3-030-25286-1</a>
+</p>
