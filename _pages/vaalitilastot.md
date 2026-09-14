@@ -9,7 +9,7 @@ Vaalien aikaan eduskunnan koostumus muuttuu. Suomessa keskimäärin 40 prosentti
 </p>
 
 <p>
-Syyt rannalle jäämiseen jaetaan tässä kahteen luokkaan Katzin (1986) sääntöä noudattaen. Luokittelu tehdään vaalipiireittäin ja puolueittain. Jos puolueen listalta ei valittu vaalipiirissä yhtään eduskunnan ulkopuolella vaalien aikaan ollutta, kaikki saman puolueen istuvien kansanedustajien putoamiset kyseisessä vaalipiirissä luetaan puolueen pärjäämisen syyksi. Jos taas listalta valittiin vähintään yksi uusi tulokas, kaikki putoamiset luetaan henkilökohtaisten äänten syyksi – myös silloin, kun puolue samalla menetti paikkoja (ks. Passarelli 2020, 213–219).
+Syyt rannalle jäämiseen jaetaan tässä kahteen luokkaan Katzin (1986) sääntöä noudattaen. Luokittelu tehdään vaalipiireittäin ja puolueittain. Jos puolueen listalta ei valittu vaalipiirissä yhtään eduskuntaan edellisissä vaaleissa valitsematonta, kaikki saman puolueen istuvien kansanedustajien putoamiset kyseisessä vaalipiirissä luetaan puolueen pärjäämisen syyksi. Jos taas puolueen listalta valittiin vähintään yksi edellisissä vaaleissa eduskuntaan valitsematon, kaikki putoamiset luetaan henkilökohtaisten äänten syyksi – myös silloin, kun puolue samalla menetti paikkoja (ks. Passarelli 2020, 213–219).
 </p>
 
 <p>
@@ -287,5 +287,5 @@ Katz, R. S. (1986). Intraparty preference voting. Teoksessa B. Grofman &amp; A. 
 </p>
 
 <p style="padding-left:2em; text-indent:-2em;">
-Passarelli, G. (2020). <i>Preferential voting systems: Influence on intra-party competition and voting behaviour</i>. Palgrave Macmillan. <a href="https://doi.org/10.1007/978-3-030-25286-1">https://doi.org/10.1007/978-3-030-25286-1</a>
+Passarelli, G. (2020). <i>Preferential voting systems: Influence on intra-party competition and voting behaviour</i>. Palgrave Macmillan. <a href="https://doi.org/10.1007/978-3-030-25286-1" target="_blank">https://doi.org/10.1007/978-3-030-25286-1</a>
 </p>
