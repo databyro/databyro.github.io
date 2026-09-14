@@ -46,17 +46,17 @@ Alla on taulukoitu syyt eduskunnan koostumuksen uusiutumiseen vuoden 1975 vaalei
         <td>2023</td>
         <td>200</td>
         <td>18.0%</td>
-        <td>67.5%</td>
-        <td>5.0%</td>
-        <td>9.5%</td>
+        <td>67.0%</td>
+        <td>3.5%</td>
+        <td>11.5%</td>
     </tr>
     <tr>
         <td>2019</td>
         <td>200</td>
         <td>22.5%</td>
         <td>55.5%</td>
-        <td>7.0%</td>
-        <td>15.0%</td>
+        <td>2.0%</td>
+        <td>20.0%</td>
     </tr>
     <tr>
         <td>2015</td>
@@ -179,17 +179,17 @@ Alla on taulukoitu syyt eduskunnan koostumuksen uusiutumiseen vuoden 1975 vaalei
         <td>2023</td>
         <td>200</td>
         <td>36</td>
-        <td>135</td>
-        <td>10</td>
-        <td>19</td>
+        <td>134</td>
+        <td>7</td>
+        <td>23</td>
     </tr>
     <tr>
         <td>2019</td>
         <td>200</td>
         <td>45</td>
         <td>111</td>
-        <td>14</td>
-        <td>30</td>
+        <td>4</td>
+        <td>40</td>
     </tr>
     <tr>
         <td>2015</td>
