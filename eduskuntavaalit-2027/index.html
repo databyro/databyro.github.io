@@ -11,7 +11,7 @@ layout: splash
 <div class="ev2027">
 <h1>Eduskuntavaalit 2027</h1>
 
-<h2><a href="{{ '/eduskuntavaalit-2027/paikkaennuste/' | relative_url }}">Paikkaennuste</a></h2>
   <a href="{{ '/eduskuntavaalit-2027/paikkaennuste/' | relative_url }}"><img src="{{ viimeisin.url | append: 'puolueet.png' | relative_url }}" alt="Paikkaennuste puolueittain {{ kuukaudet[kk] }} {{ osat[0] }}" style="width:100%;max-width:1200px;"></a>
 </div>
+<h2><a href="{{ '/eduskuntavaalit-2027/paikkaennuste/' | relative_url }}">Tuorein ennuste</a></h2>  
 <p><a href="{{ '/eduskuntavaalit-2027/paikkaennuste/' | relative_url }}">{{ kuukaudet[kk] }} {{ osat[0] }}</a>{% if viimeisin.date %} (julkaistu {{ viimeisin.date | date: "%-d.%-m.%Y" }}){% endif %}</p>
