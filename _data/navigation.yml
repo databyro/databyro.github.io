@@ -1,6 +1,6 @@
 main:
-  #- title: "Eduskuntavaalit 2027"
-  #  url: /eduskuntavaalit-2027/
+  - title: "Eduskuntavaalit 2027"
+    url: /eduskuntavaalit-2027/
   - title: "Puoluekannatus"
     url: /mittauskeskiarvo/
   - title: "Hallitukset"
