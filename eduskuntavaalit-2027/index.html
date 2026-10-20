@@ -11,11 +11,18 @@ layout: splash
 <div class="ev2027">
 <h1>Eduskuntavaalit 2027</h1>
 
-  <h2>Puolueiden mediaanipaikkamäärän kehitys</h2>
+  <h2>Puolueiden ennustetun paikkamäärän kehitys</h2>
   <div style="overflow-x:auto;width:100%;">
     <div style="min-height:344px" id="datawrapper-vis-Q5wSg"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/Q5wSg/embed.js" charset="utf-8" data-target="#datawrapper-vis-Q5wSg"></script><noscript><img src="https://datawrapper.dwcdn.net/Q5wSg/full.png" alt="Line chart" /></noscript></div>
   </div>
 </div>
 <h2><a href="{{ '/eduskuntavaalit-2027/paikkaennuste/' | relative_url }}">Tuorein ennuste</a></h2>
 <h2>Kaikki ennusteet</h2>  
-<p><a href="{{ '/eduskuntavaalit-2027/paikkaennuste/' | relative_url }}">{{ kuukaudet[kk] }} {{ osat[0] }}</a>{% if viimeisin.date %}{% endif %}</p>
+  {%- assign kaikki = site.pages | where: "layout", "paikkaennuste" | sort: "url" | reverse %}
+  <ul>
+  {%- for p in kaikki %}
+    {%- assign o = p.url | split: "/" | last | split: "-" -%}
+    {%- assign i = o[1] | plus: 0 | minus: 1 %}
+    <li><a href="{{ p.url | relative_url }}">{{ kuukaudet[i] }} {{ o[0] }}</a></li>
+  {%- endfor %}
+  </ul>
