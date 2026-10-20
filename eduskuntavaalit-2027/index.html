@@ -2,7 +2,7 @@
 title: "Eduskuntavaalit 2027"
 layout: splash
 ---
-{%- assign kuukaudet = "tammikuu,helmikuu,maaliskuu,huhtikuu,toukokuu,kesäkuu,heinäkuu,elokuu,syyskuu,lokakuu,marraskuu,joulukuu" | split: "," -%}
+{%- assign kuukaudet = "Tammikuu,Helmikuu,Maaliskuu,Huhtikuu,Toukokuu,Kesäkuu,Heinäkuu,Elokuu,Syyskuu,Lokakuu,Marraskuu,Joulukuu" | split: "," -%}
 {%- assign viimeisin = site.pages | where: "layout", "paikkaennuste" | sort: "url" | last -%}
 {%- assign tunnus = viimeisin.url | split: "/" | last -%}
 {%- assign osat = tunnus | split: "-" -%}
@@ -12,6 +12,6 @@ layout: splash
 <h1>Eduskuntavaalit 2027</h1>
 
 <h2><a href="{{ '/eduskuntavaalit-2027/paikkaennuste/' | relative_url }}">Paikkaennuste</a></h2>
-<p>Viimeisin paikkaennuste: <a href="{{ '/eduskuntavaalit-2027/paikkaennuste/' | relative_url }}">{{ kuukaudet[kk] }} {{ osat[0] }}</a>{% if viimeisin.date %} (julkaistu {{ viimeisin.date | date: "%-d.%-m.%Y" }}){% endif %}</p>
-<a href="{{ '/eduskuntavaalit-2027/paikkaennuste/' | relative_url }}"><img src="{{ viimeisin.url | append: 'puolueet.png' | relative_url }}" alt="Paikkaennuste puolueittain {{ kuukaudet[kk] }} {{ osat[0] }}" style="width:100%;max-width:1200px;"></a>
+  <a href="{{ '/eduskuntavaalit-2027/paikkaennuste/' | relative_url }}"><img src="{{ viimeisin.url | append: 'puolueet.png' | relative_url }}" alt="Paikkaennuste puolueittain {{ kuukaudet[kk] }} {{ osat[0] }}" style="width:100%;max-width:1200px;"></a>
 </div>
+<p><a href="{{ '/eduskuntavaalit-2027/paikkaennuste/' | relative_url }}">{{ kuukaudet[kk] }} {{ osat[0] }}</a>{% if viimeisin.date %} (julkaistu {{ viimeisin.date | date: "%-d.%-m.%Y" }}){% endif %}</p>
