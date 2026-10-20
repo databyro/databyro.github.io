@@ -13,6 +13,7 @@
 <div class="ev2027">
 <h1>Paikkaennuste: {{ kuukaudet[kk] }} {{ osat[0] }}</h1>
 {% if include.e.date %}<p>Julkaistu {{ include.e.date | date: "%-d.%-m.%Y" }}</p>{% endif %}
+<p><a href="{{ '/eduskuntavaalit-2027/paikkaennuste/metodologia/' | relative_url }}">Miten paikkaennuste toimii</a></p>
 
 <h2>Puolueet</h2>
 <a href="{{ include.e.url | append: 'puolueet.png' | relative_url }}" target="_blank" rel="noopener"><img src="{{ include.e.url | append: 'puolueet.png' | relative_url }}" alt="Paikkaennuste puolueittain {{ kuukaudet[kk] }} {{ osat[0] }}: ennustettu paikkamäärä, 80 prosentin todennäköisyysväli ja vuoden 2023 vaalitulos" style="width:100%;max-width:1200px;"></a>
