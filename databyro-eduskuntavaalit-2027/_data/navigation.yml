@@ -1,0 +1,17 @@
+main:
+  - title: "Eduskuntavaalit 2027"
+    url: /eduskuntavaalit-2027/
+  - title: "Puoluekannatus"
+    url: /mittauskeskiarvo/
+  - title: "Hallitukset"
+    url: /hallitukset/
+  - title: "Tarkkuus"
+    url: /tarkkuus/
+  - title: "Vaalitilastot"
+    url: /vaalitilastot/
+  - title: "Arkisto"
+    url: /arkisto/
+  - title: "Mediassa"
+    url: /mediassa/
+  - title: "Meistä"
+    url: /about/
