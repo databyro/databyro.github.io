@@ -11,7 +11,10 @@ layout: splash
 <div class="ev2027">
 <h1>Eduskuntavaalit 2027</h1>
 
-  <a href="{{ '/eduskuntavaalit-2027/paikkaennuste/' | relative_url }}"><img src="{{ viimeisin.url | append: 'puolueet.png' | relative_url }}" alt="Paikkaennuste puolueittain {{ kuukaudet[kk] }} {{ osat[0] }}" style="width:100%;max-width:1200px;"></a>
+  <h2>ZPuolueiden mediaanipaikkamäärän kehitys</h2>
+  <div style="overflow-x:auto;width:100%;">
+<div style="min-height:344px" id="datawrapper-vis-Q5wSg"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/Q5wSg/embed.js" charset="utf-8" data-target="#datawrapper-vis-Q5wSg"></script><noscript><img src="https://datawrapper.dwcdn.net/Q5wSg/full.png" alt="Line chart" /></noscript></div>
 </div>
+  </div>
 <h2><a href="{{ '/eduskuntavaalit-2027/paikkaennuste/' | relative_url }}">Tuorein ennuste</a></h2>  
 <p><a href="{{ '/eduskuntavaalit-2027/paikkaennuste/' | relative_url }}">{{ kuukaudet[kk] }} {{ osat[0] }}</a>{% if viimeisin.date %} (julkaistu {{ viimeisin.date | date: "%-d.%-m.%Y" }}){% endif %}</p>
