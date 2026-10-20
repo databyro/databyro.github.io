@@ -1,0 +1,7 @@
+---
+title: "Paikkaennuste – eduskuntavaalit 2027"
+layout: splash
+---
+{%- comment -%} Always shows the newest month folder below this one. {%- endcomment -%}
+{% assign viimeisin = site.pages | where: "layout", "paikkaennuste" | sort: "url" | last %}
+{% include paikkaennuste.html e=viimeisin %}

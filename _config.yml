@@ -30,13 +30,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-include-cache
 
-# Monthly seat projections: one file per month in _paikkaennusteet/YYYY-MM.md,
-# charts in assets/images/paikkaennuste/YYYY-MM/{puolueet,hallituspohjat}.png
-collections:
-  paikkaennusteet:
-    output: true
-    permalink: /eduskuntavaalit-2027/paikkaennuste/:name/
-
 footer:
   links:
     - label: "Twitter"
@@ -54,9 +47,3 @@ defaults:
     values:
       layout: single
       author_profile: false
-  # _paikkaennusteet
-  - scope:
-      path: ""
-      type: paikkaennusteet
-    values:
-      layout: paikkaennuste
