@@ -43,3 +43,25 @@ search: false
 .ev2027 > h1:first-child {
   margin-top: 1em;
 }
+
+/* Eduskuntavaalit 2027 -osion sivupohja: teema varaa oikealle 300 px sisällysluettelolle,
+   jota näillä sivuilla ei ole, joten sisältö saa koko leveyden sivuvalikon oikealta puolelta */
+.ev2027-sivu .page {
+  padding-inline-end: 0;
+}
+
+/* Kaaviot täyttävät palstan; kapealla näytöllä ne eivät kutistu alle 760 px:n
+   vaan vierivät sivusuunnassa, kuten Puoluekannatus-sivun kaaviot */
+.kaavio {
+  overflow-x: auto;
+  width: 100%;
+
+  > * {
+    display: block;
+    min-width: 760px;
+  }
+
+  img {
+    width: 100%;
+  }
+}

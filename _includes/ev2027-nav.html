@@ -1,0 +1,32 @@
+{%- comment -%}
+  Eduskuntavaalit 2027 -osion sivuvalikko. Kuukaudet tulevat kuukausikansioista
+  (layout: paikkaennuste), uusin ensin, joten valikkoa ei tarvitse päivittää käsin.
+{%- endcomment -%}
+{%- assign kuukaudet = "Tammikuu,Helmikuu,Maaliskuu,Huhtikuu,Toukokuu,Kesäkuu,Heinäkuu,Elokuu,Syyskuu,Lokakuu,Marraskuu,Joulukuu" | split: "," -%}
+{%- assign ennusteet = site.pages | where: "layout", "paikkaennuste" | sort: "url" | reverse -%}
+{%- assign tuorein = '/eduskuntavaalit-2027/paikkaennuste/' -%}
+{%- assign metodologia = '/eduskuntavaalit-2027/paikkaennuste/metodologia/' -%}
+<nav class="nav__list">
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Avaa valikko" }}</label>
+  <ul class="nav__items">
+    <li><a href="{{ '/eduskuntavaalit-2027/' | relative_url }}"><span class="nav__sub-title">Eduskuntavaalit 2027</span></a></li>
+    <li>
+      <span class="nav__sub-title">Paikkaennuste</span>
+      <ul>
+        <li><a href="{{ tuorein | relative_url }}"{% if page.url == tuorein %} class="active"{% endif %}>Tuorein ennuste</a></li>
+        <li><a href="{{ metodologia | relative_url }}"{% if page.url == metodologia %} class="active"{% endif %}>Miten ennuste toimii</a></li>
+      </ul>
+    </li>
+    <li>
+      <span class="nav__sub-title">Kaikki ennusteet</span>
+      <ul>
+        {%- for p in ennusteet %}
+          {%- assign o = p.url | split: "/" | last | split: "-" -%}
+          {%- assign i = o[1] | plus: 0 | minus: 1 %}
+        <li><a href="{{ p.url | relative_url }}"{% if p.url == page.url %} class="active"{% endif %}>{{ kuukaudet[i] }} {{ o[0] }}</a></li>
+        {%- endfor %}
+      </ul>
+    </li>
+  </ul>
+</nav>

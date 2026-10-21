@@ -1,0 +1,19 @@
+---
+layout: default
+---
+{%- comment -%}
+  Eduskuntavaalit 2027 -osion sivupohja: vasemmalla osion valikko, oikealla sisältö.
+  Puhelimella valikko taittuu sisällön yläpuolelle "Avaa valikko" -painikkeen taakse.
+{%- endcomment -%}
+<div id="main" role="main" class="ev2027-sivu">
+  <div class="sidebar sticky">
+    {% include ev2027-nav.html %}
+  </div>
+  <article class="page">
+    <div class="page__inner-wrap">
+      <section class="page__content">
+        {{ content }}
+      </section>
+    </div>
+  </article>
+</div>

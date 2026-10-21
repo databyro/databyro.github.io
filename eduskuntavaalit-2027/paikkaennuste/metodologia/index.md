@@ -1,6 +1,6 @@
 ---
 title: "Miten paikkaennuste toimii"
-layout: splash
+layout: ev2027
 ---
 <div class="ev2027" markdown="1">
 

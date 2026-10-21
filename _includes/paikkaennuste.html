@@ -16,21 +16,11 @@
 <p><a href="{{ '/eduskuntavaalit-2027/paikkaennuste/metodologia/' | relative_url }}">Miten paikkaennuste toimii</a></p>
 
 <h2>Puolueet</h2>
-<a href="{{ include.e.url | append: 'puolueet.png' | relative_url }}" target="_blank" rel="noopener"><img src="{{ include.e.url | append: 'puolueet.png' | relative_url }}" alt="Paikkaennuste puolueittain {{ kuukaudet[kk] }} {{ osat[0] }}: ennustettu paikkamäärä, 80 prosentin todennäköisyysväli ja vuoden 2023 vaalitulos" style="width:100%;max-width:1200px;"></a>
+<div class="kaavio"><a href="{{ include.e.url | append: 'puolueet.png' | relative_url }}" target="_blank" rel="noopener"><img src="{{ include.e.url | append: 'puolueet.png' | relative_url }}" alt="Paikkaennuste puolueittain {{ kuukaudet[kk] }} {{ osat[0] }}: ennustettu paikkamäärä, 80 prosentin todennäköisyysväli ja vuoden 2023 vaalitulos"></a></div>
 
 <h2>Hallituspohjat</h2>
-<a href="{{ include.e.url | append: 'hallituspohjat.png' | relative_url }}" target="_blank" rel="noopener"><img src="{{ include.e.url | append: 'hallituspohjat.png' | relative_url }}" alt="Hallituspohjien yhteenlaskettu paikkamäärä {{ kuukaudet[kk] }} {{ osat[0] }}: ennuste, 80 prosentin todennäköisyysväli ja vuoden 2023 tulos" style="width:100%;max-width:1200px;"></a>
+<div class="kaavio"><a href="{{ include.e.url | append: 'hallituspohjat.png' | relative_url }}" target="_blank" rel="noopener"><img src="{{ include.e.url | append: 'hallituspohjat.png' | relative_url }}" alt="Hallituspohjien yhteenlaskettu paikkamäärä {{ kuukaudet[kk] }} {{ osat[0] }}: ennuste, 80 prosentin todennäköisyysväli ja vuoden 2023 tulos"></a></div>
 
 {{ include.e.content | markdownify }}
 
-<h2>Kaikki paikkaennusteet</h2>
-{%- assign kaikki = site.pages | where: "layout", "paikkaennuste" | sort: "url" | reverse %}
-<ul>
-{%- for p in kaikki %}
-  {%- assign t = p.url | split: "/" | last -%}
-  {%- assign o = t | split: "-" -%}
-  {%- assign i = o[1] | plus: 0 | minus: 1 %}
-  <li>{% if t == tunnus %}<strong>{{ kuukaudet[i] | capitalize }} {{ o[0] }}</strong>{% else %}<a href="{{ p.url | relative_url }}">{{ kuukaudet[i] | capitalize }} {{ o[0] }}</a>{% endif %}</li>
-{%- endfor %}
-</ul>
 </div>

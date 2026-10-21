@@ -1,32 +1,15 @@
 ---
 title: "Eduskuntavaalit 2027"
-layout: splash
+layout: ev2027
 ---
-{%- assign kuukaudet = "Tammikuu,Helmikuu,Maaliskuu,Huhtikuu,Toukokuu,Kesäkuu,Heinäkuu,Elokuu,Syyskuu,Lokakuu,Marraskuu,Joulukuu" | split: "," -%}
-{%- assign viimeisin = site.pages | where: "layout", "paikkaennuste" | sort: "url" | last -%}
-{%- assign tunnus = viimeisin.url | split: "/" | last -%}
-{%- assign osat = tunnus | split: "-" -%}
-{%- assign kk = osat[1] | plus: 0 | minus: 1 -%}
-
 <div class="ev2027">
 <h1>Eduskuntavaalit 2027</h1>
 
   <h2>Puolueiden ennustetun paikkamäärän kehitys</h2>
-  <div style="overflow-x:auto;width:100%;">
+  <div class="kaavio">
     <div style="min-height:344px" id="datawrapper-vis-Q5wSg"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/Q5wSg/embed.js" charset="utf-8" data-target="#datawrapper-vis-Q5wSg"></script><noscript><img src="https://datawrapper.dwcdn.net/Q5wSg/full.png" alt="Line chart" /></noscript></div>
   </div>
-    <div style="overflow-x:auto;width:100%;">
+  <div class="kaavio">
     <div style="min-height:181px" id="datawrapper-vis-xwnOJ"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/xwnOJ/embed.js" charset="utf-8" data-target="#datawrapper-vis-xwnOJ"></script><noscript><img src="https://datawrapper.dwcdn.net/xwnOJ/full.png" alt="Puolueiden ennustetun paikkamäärän kehitys" /></noscript></div>
   </div>
 </div>
-<h2><a href="{{ '/eduskuntavaalit-2027/paikkaennuste/' | relative_url }}">Tuorein ennuste</a></h2>
-<h2><a href="{{ '/eduskuntavaalit-2027/paikkaennuste/metodologia/' | relative_url }}">Miten ennuste toimii</a></h2>
-<h2>Kaikki ennusteet</h2>  
-  {%- assign kaikki = site.pages | where: "layout", "paikkaennuste" | sort: "url" | reverse %}
-  <ul>
-  {%- for p in kaikki %}
-    {%- assign o = p.url | split: "/" | last | split: "-" -%}
-    {%- assign i = o[1] | plus: 0 | minus: 1 %}
-    <li><a href="{{ p.url | relative_url }}">{{ kuukaudet[i] }} {{ o[0] }}</a></li>
-  {%- endfor %}
-  </ul>
