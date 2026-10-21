@@ -56,9 +56,11 @@ search: false
   overflow-x: auto;
   width: 100%;
 
+  // !important: Datawrapper's embed script replaces the chart div's own style with
+  // "all: initial", which would otherwise cancel these two rules
   > * {
-    display: block;
-    min-width: 760px;
+    display: block !important;
+    min-width: 760px !important;
   }
 
   img {

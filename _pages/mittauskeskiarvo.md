@@ -5,19 +5,21 @@ layout: splash
 ---
 
 <br>
-<div style="overflow-x:auto;width:100%;">
-<div style="min-height:540px;width:1000px;"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/1wijf/embed.js?v=22" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/1wijf/full.png" alt="Puoluekannatus Suomessa – aikasarja" /></noscript></div>
+<div class="kaavio">
+<div style="min-height:540px" id="datawrapper-vis-1wijf"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/1wijf/embed.js" charset="utf-8" data-target="#datawrapper-vis-1wijf"></script><noscript><img src="https://datawrapper.dwcdn.net/1wijf/full.png" alt="Puoluekannatus Suomessa – aikasarja" /></noscript></div>
 </div>
 <br>
 <h4>Viimeisimmät mittaukset</h4>
+<div class="kaavio">
 <div style="min-height:901px" id="datawrapper-vis-3hNzs"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/3hNzs/embed.js" charset="utf-8" data-target="#datawrapper-vis-3hNzs"></script><noscript><img src="https://datawrapper.dwcdn.net/3hNzs/full.png" alt="Viimeisimmät puoluekannatusmittaukset" /></noscript></div>
-<br>
-<div style="overflow-x:auto;width:100%;">
-<div style="min-height:540px;width:1000px;"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/TgtyE/embed.js?v=5" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/TgtyE/full.png" alt="" /></noscript></div>
 </div>
 <br>
-<div style="overflow-x:auto;width:100%;">
-<div style="min-height:543px;width:1000px" id="datawrapper-vis-hCW0c"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/hCW0c/embed.js" charset="utf-8" data-target="#datawrapper-vis-hCW0c"></script><noscript><img src="https://datawrapper.dwcdn.net/hCW0c/full.png" alt="Puoluekannatus Suomessa – aikasarja" /></noscript></div>
+<div class="kaavio">
+<div style="min-height:540px" id="datawrapper-vis-TgtyE"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/TgtyE/embed.js" charset="utf-8" data-target="#datawrapper-vis-TgtyE"></script><noscript><img src="https://datawrapper.dwcdn.net/TgtyE/full.png" alt="" /></noscript></div>
+</div>
+<br>
+<div class="kaavio">
+<div style="min-height:543px" id="datawrapper-vis-hCW0c"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/hCW0c/embed.js" charset="utf-8" data-target="#datawrapper-vis-hCW0c"></script><noscript><img src="https://datawrapper.dwcdn.net/hCW0c/full.png" alt="Puoluekannatus Suomessa – aikasarja" /></noscript></div>
 </div>
 
 <!--
