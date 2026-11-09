@@ -3,6 +3,9 @@ permalink: /mediassa/
 title: "Databyro mediassa"
 ---
 <br>
+06.11.2026<br>
+<a href="https://suomenkuvalehti.fi/politiikka-ja-talous/analyysi-vasemmistohallitus-vai-sinipuna-jos-puolueet-toimivat-kuten-ruotsissa-hallitusvaihtoehdot-ovat-vahissa/?shared=1368351-3812749a-4" target="_blank">Suomen Kuvalehti</a>
+<br><br>
 31.03.2023<br>
 <a href="https://www.uusisuomi.fi/uutiset/tyma-laskeutui-suomen-vaalipaivan-ylle-luvassa-voi-olla-yllatys-hallituskuvion-ratkaisija-lymyaa-kolmen-suurimman-takana/bee330cf-431a-450c-ad31-260a68131e75" target="_blank">Uusi Suomi</a>
 <br><br>
