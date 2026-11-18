@@ -65,6 +65,6 @@ Ei automaattisesti. Vaaliliitot voivat ratkaista yksittäisiä paikkoja erityise
 Databyron paikkaennusteen osumatarkkuus aiemmissa eduskuntavaaleissa on koottu [Tarkkuus-sivulle]({{ '/tarkkuus/' | relative_url }}).
 
 ## Muutosloki
-- 
+- 18.11.: Vaalipiirien paikkamäärät muutettiin [vastaamaan vaalien 2027 tilannetta](https://yle.fi/a/74-20254552){:target="_blank" rel="noopener"} niiden tultua julkiseksi. Varsinais-Suomi sai yhden lisäpaikan, kun taas Häme menetti yhden.
 
 </div>
